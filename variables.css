@@ -1,0 +1,8 @@
+:root {
+  --darkBlue: hsl(209, 23%, 22%);
+  --veryDarkBlue/*(Dark Mode Background)*/: hsl(207, 26%, 17%);
+  --veryDarkBlue2/*(Light Mode Text)*/: hsl(200, 15%, 8%);
+  --darkGray/*(Light Mode Input)*/: hsl(0, 0%, 52%);
+  --veryLightGray/*(Light Mode Background)*/: hsl(0, 0%, 98%);
+  --white/*(Dark Mode Text & Light Mode Elements)*/: hsl(0, 0%, 100%);
+}
